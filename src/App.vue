@@ -1,20 +1,13 @@
 <template>
-   <main>
-     Hello world
-   </main>
-   <!-- <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
-  <RouterView /> -->
+  <main></main>
+  <!--
+    <RouterLink to="/about">About</RouterLink>
+    <RouterView /> 
+  -->
 </template>
 
 <script setup>
 //import { RouterLink, RouterView } from 'vue-router'
-//import HelloWorld from './components/HelloWorld.vue'
 </script>
 
-
-
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
